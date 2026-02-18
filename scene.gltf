@@ -1,0 +1,1721 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4491,
+      "max": [
+        810.7440185546875,
+        587.0148315429688,
+        398.45343017578125
+      ],
+      "min": [
+        -936.6888427734375,
+        -24.129592895507813,
+        -259.7447509765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 53892,
+      "componentType": 5126,
+      "count": 4491,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4491,
+      "max": [
+        2.8742167949676514,
+        3.9299726486206055
+      ],
+      "min": [
+        -7.618438720703125,
+        -1.2671558856964111
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 35928,
+      "componentType": 5126,
+      "count": 4491,
+      "max": [
+        48.93177032470703,
+        50.31012725830078
+      ],
+      "min": [
+        -48.93177032470703,
+        -48.01496124267578
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71856,
+      "componentType": 5126,
+      "count": 4491,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 9546,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107784,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        -259.642333984375,
+        -23.999980926513672,
+        401.26422119140625
+      ],
+      "min": [
+        -909.642333984375,
+        -24.000154495239258,
+        -248.7353057861328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107832,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.0,
+        1.0,
+        2.6631610694494157e-07
+      ],
+      "min": [
+        0.0,
+        1.0,
+        2.6631610694494157e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 107784,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.999500036239624,
+        0.9994992613792419
+      ],
+      "min": [
+        0.0005000000237487257,
+        0.0005000000237487257
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 107816,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 107848,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38184,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 107880,
+      "componentType": 5126,
+      "count": 4976,
+      "max": [
+        741.7467041015625,
+        590.8035278320313,
+        621.7691040039063
+      ],
+      "min": [
+        -927.626220703125,
+        -24.000030517578125,
+        -969.6875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 167592,
+      "componentType": 5126,
+      "count": 4976,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 107880,
+      "componentType": 5126,
+      "count": 4976,
+      "max": [
+        4.899236679077148,
+        5.0280656814575195
+      ],
+      "min": [
+        -5.594318866729736,
+        -2.9043445587158203
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 147688,
+      "componentType": 5126,
+      "count": 4976,
+      "max": [
+        49.78520965576172,
+        51.163536071777344
+      ],
+      "min": [
+        -49.7819709777832,
+        -48.86842727661133
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 187496,
+      "componentType": 5126,
+      "count": 4976,
+      "max": [
+        0.0,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 38208,
+      "componentType": 5125,
+      "count": 11529,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "FlavorAitch (https://sketchfab.com/aitchism)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bdsm-scene-77329ea6cb2d41768dd239a10be7ceac",
+      "title": "BDSM Scene"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 84324,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 227304,
+      "byteOffset": 84324,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 227304,
+      "byteOffset": 311628,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 538932,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "myDungaiToon1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "aiToon1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "aiToon2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "directionalLight5_myDung:aiToon1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "directionalLight5_aiToon1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 8,
+            "TEXCOORD_1": 9,
+            "TEXCOORD_2": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "directionalLight5_aiToon2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14,
+            "TEXCOORD_1": 15,
+            "TEXCOORD_2": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.005817187484353781,
+        -1.6478750369289207e-18,
+        -1.6478750369289215e-18,
+        0.0,
+        -1.647875036928921e-18,
+        2.939550133667093e-18,
+        -0.005817187484353781,
+        0.0,
+        1.647875036928921e-18,
+        0.005817187484353781,
+        2.939550133667093e-18,
+        0.0,
+        1.3612715005874634,
+        -6.692358666080864e-22,
+        3.013970399479149e-06,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "7468311a249046a6bca8a0ee49294b16.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Object_2"
+    },
+    {
+      "children": [
+        4,
+        6,
+        20,
+        21,
+        22,
+        23,
+        47,
+        49,
+        51,
+        57,
+        58,
+        60,
+        62,
+        68,
+        70,
+        71,
+        74,
+        76,
+        79,
+        81,
+        83,
+        85,
+        87,
+        94,
+        95,
+        97,
+        99,
+        100,
+        104,
+        109,
+        111,
+        113,
+        115,
+        117,
+        120,
+        122
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "myDung:ARCO BUENO007",
+      "rotation": [
+        6.657902673623539e-08,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        201.28140258789063,
+        -23.000011444091797,
+        -1041.46044921875
+      ]
+    },
+    {
+      "name": "transform10"
+    },
+    {
+      "children": [
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19
+      ],
+      "name": "myDung:TECHO PROFE004",
+      "rotation": [
+        -0.5000002384185791,
+        -0.4999997615814209,
+        -0.4999997615814209,
+        0.5000002384185791
+      ],
+      "translation": [
+        1265.4644775390625,
+        -24.0,
+        1332.0628662109375
+      ]
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "polySurface1",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform11",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "polySurface2",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform15",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "polySurface3",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform16",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "polySurface4",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform12",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "polySurface5",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform13",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        18
+      ],
+      "name": "polySurface6",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform14",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "transform1",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "myDung:TECHO PROFE006",
+      "rotation": [
+        0.5000002384185791,
+        0.4999997615814209,
+        -0.4999997615814209,
+        0.5000002384185791
+      ],
+      "translation": [
+        -805.6947021484375,
+        118.94898986816406,
+        -362.3901062011719
+      ]
+    },
+    {
+      "name": "myDung:culumna nueva 039",
+      "rotation": [
+        -0.5000002384185791,
+        -0.4999997615814209,
+        -0.4999997615814209,
+        0.5000002384185791
+      ],
+      "translation": [
+        -1502.6123046875,
+        -6.103515625e-05,
+        -865.8272705078125
+      ]
+    },
+    {
+      "name": "myDung:ARCO PROFE019",
+      "rotation": [
+        -4.707848688667582e-07,
+        0.7071068286895752,
+        0.7071068286895752,
+        4.707848688667582e-07
+      ],
+      "translation": [
+        -1088.5057373046875,
+        234.2457275390625,
+        -788.4542846679688
+      ]
+    },
+    {
+      "children": [
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        36,
+        38,
+        40,
+        42,
+        44,
+        46
+      ],
+      "name": "myDung:Plane001",
+      "rotation": [
+        0.70710688829422,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "translation": [
+        267.02984619140625,
+        -24.0,
+        1340.573974609375
+      ]
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "polySurface9"
+    },
+    {
+      "name": "transform7"
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "polySurface10",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform20"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "polySurface11",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform17"
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "polySurface12",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform18"
+    },
+    {
+      "children": [
+        33
+      ],
+      "name": "polySurface13",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform19"
+    },
+    {
+      "children": [
+        35
+      ],
+      "name": "polySurface14",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform21"
+    },
+    {
+      "children": [
+        37
+      ],
+      "name": "polySurface15",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform22"
+    },
+    {
+      "children": [
+        39
+      ],
+      "name": "polySurface16",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform23"
+    },
+    {
+      "children": [
+        41
+      ],
+      "name": "polySurface17",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform24"
+    },
+    {
+      "children": [
+        43
+      ],
+      "name": "polySurface18",
+      "translation": [
+        -553.718505859375,
+        -1266.1002197265625,
+        0.00033718289341777563
+      ]
+    },
+    {
+      "name": "transform25"
+    },
+    {
+      "children": [
+        45
+      ],
+      "name": "polySurface19"
+    },
+    {
+      "name": "transform8"
+    },
+    {
+      "name": "transform3"
+    },
+    {
+      "children": [
+        48
+      ],
+      "name": "myDung:culumna nueva 050",
+      "rotation": [
+        -0.7071068286895752,
+        3.2954940820673073e-07,
+        3.2954940820673073e-07,
+        0.7071068286895752
+      ],
+      "translation": [
+        -602.62646484375,
+        -20.21129035949707,
+        316.52252197265625
+      ]
+    },
+    {
+      "name": "transform27"
+    },
+    {
+      "children": [
+        50
+      ],
+      "name": "myDung:Plane002",
+      "rotation": [
+        0.70710688829422,
+        0.0,
+        0.0,
+        0.7071067094802856
+      ],
+      "translation": [
+        -584.642333984375,
+        -24.0,
+        -248.7353057861328
+      ]
+    },
+    {
+      "name": "transform28"
+    },
+    {
+      "children": [
+        52,
+        54,
+        56
+      ],
+      "name": "myDung:culumna nueva 051",
+      "rotation": [
+        -0.5000002384185791,
+        -0.4999997615814209,
+        -0.4999997615814209,
+        0.5000002384185791
+      ],
+      "translation": [
+        1364.4619140625,
+        -24.0,
+        1331.355224609375
+      ]
+    },
+    {
+      "children": [
+        53
+      ],
+      "name": "polySurface7",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform29",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        55
+      ],
+      "name": "polySurface8",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "translation": [
+        -1266.1007080078125,
+        -553.7173461914063,
+        1.3500311979441904e-13
+      ]
+    },
+    {
+      "name": "transform26",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "transform2",
+      "rotation": [
+        -6.077656146169069e-34,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "myDung:culumna nueva 052",
+      "rotation": [
+        4.00614158571272e-16,
+        0.7071068286895752,
+        0.7071068286895752,
+        3.1401851283233704e-16
+      ],
+      "translation": [
+        -54.60253143310547,
+        -1067.9910888671875,
+        1662.8826904296875
+      ]
+    },
+    {
+      "children": [
+        59
+      ],
+      "name": "myDung:pPlane1",
+      "rotation": [
+        0.19336509704589844,
+        0.19336509704589844,
+        -0.6801543235778809,
+        0.6801543235778809
+      ],
+      "scale": [
+        341.0145263671875,
+        549.7603149414063,
+        38.63860321044922
+      ],
+      "translation": [
+        -103.71532440185547,
+        130.88803100585938,
+        1305.9971923828125
+      ]
+    },
+    {
+      "name": "myDung:transform2",
+      "rotation": [
+        -3.6536600801559135e-32,
+        -4.440892098500626e-16,
+        6.251744104460965e-34,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        61
+      ],
+      "name": "myDung:pPlane2",
+      "rotation": [
+        -0.13468123972415924,
+        -0.13468123972415924,
+        -0.6941620707511902,
+        0.6941620707511902
+      ],
+      "scale": [
+        341.0145263671875,
+        549.7603149414063,
+        38.63860321044922
+      ],
+      "translation": [
+        -113.8421401977539,
+        140.03250122070313,
+        1331.4266357421875
+      ]
+    },
+    {
+      "name": "myDung:transform1",
+      "rotation": [
+        -1.3060801651919293e-32,
+        -4.440892098500626e-16,
+        -5.718566223715373e-33,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        63,
+        65,
+        67
+      ],
+      "name": "myDung:pPlane3",
+      "translation": [
+        -166.85772705078125,
+        1.0676053762435913,
+        23.58567237854004
+      ]
+    },
+    {
+      "children": [
+        64
+      ],
+      "name": "polySurface20"
+    },
+    {
+      "name": "transform6"
+    },
+    {
+      "children": [
+        66
+      ],
+      "name": "polySurface21",
+      "rotation": [
+        -0.01505954097956419,
+        -0.0,
+        0.0,
+        0.999886691570282
+      ],
+      "translation": [
+        0.0,
+        -40.65174865722656,
+        0.0
+      ]
+    },
+    {
+      "name": "transform5",
+      "rotation": [
+        3.469446951953614e-18,
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "transform4"
+    },
+    {
+      "children": [
+        69
+      ],
+      "name": "myDung:persp1",
+      "rotation": [
+        -0.0865975096821785,
+        0.9959850311279297,
+        -0.001965172355994582,
+        0.022602062672376633
+      ],
+      "translation": [
+        2519.615234375,
+        517.0287475585938,
+        1409.742919921875
+      ]
+    },
+    {
+      "name": "Object_69"
+    },
+    {
+      "name": "myDung:aiSkyDomeLight1",
+      "scale": [
+        1.7680898904800415,
+        1.7680898904800415,
+        1.7680898904800415
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        1315.5262451171875
+      ]
+    },
+    {
+      "children": [
+        72
+      ],
+      "name": "directionalLight2",
+      "rotation": [
+        0.665639340877533,
+        0.2833563983440399,
+        -0.3043781816959381,
+        0.6196671724319458
+      ],
+      "scale": [
+        136.748291015625,
+        163.82928466796875,
+        88.33845520019531
+      ],
+      "translation": [
+        343.3990478515625,
+        144.03358459472656,
+        586.972900390625
+      ]
+    },
+    {
+      "children": [
+        73
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_72"
+    },
+    {
+      "name": "Object_73"
+    },
+    {
+      "children": [
+        75
+      ],
+      "name": "polySurface20",
+      "translation": [
+        -253.71853637695313,
+        0.0,
+        -1266.1002197265625
+      ]
+    },
+    {
+      "name": "transform9"
+    },
+    {
+      "children": [
+        77
+      ],
+      "name": "directionalLight4",
+      "rotation": [
+        0.4473930299282074,
+        0.5508997440338135,
+        -0.46811023354530334,
+        0.5265185236930847
+      ],
+      "scale": [
+        154.8087921142578,
+        154.8087921142578,
+        154.8087921142578
+      ],
+      "translation": [
+        929.4143676757813,
+        169.99685668945313,
+        51.345333099365234
+      ]
+    },
+    {
+      "children": [
+        78
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_77"
+    },
+    {
+      "name": "Object_78"
+    },
+    {
+      "children": [
+        80
+      ],
+      "name": "objects:pCube2",
+      "translation": [
+        -0.1380472630262375,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "objects:transform2"
+    },
+    {
+      "children": [
+        82
+      ],
+      "name": "objects:pDisc1",
+      "scale": [
+        0.10024375468492508,
+        0.10024375468492508,
+        0.10024375468492508
+      ],
+      "translation": [
+        0.5033140182495117,
+        -0.526293933391571,
+        -0.3035448491573334
+      ]
+    },
+    {
+      "name": "objects:transform3"
+    },
+    {
+      "children": [
+        84
+      ],
+      "name": "objects:pCylinder1",
+      "rotation": [
+        0.0,
+        0.0,
+        0.6968732476234436,
+        0.7171943187713623
+      ],
+      "scale": [
+        0.1480984091758728,
+        0.22097040712833405,
+        0.1544482707977295
+      ],
+      "translation": [
+        -0.8334848284721375,
+        0.331354558467865,
+        -0.3030584454536438
+      ]
+    },
+    {
+      "name": "objects:transform8"
+    },
+    {
+      "children": [
+        86
+      ],
+      "name": "objects:pCylinder2",
+      "rotation": [
+        0.0,
+        0.0,
+        -0.7094866037368774,
+        0.7047189474105835
+      ],
+      "scale": [
+        0.1493414044380188,
+        0.06720191985368729,
+        0.1493414044380188
+      ],
+      "translation": [
+        -0.6880720257759094,
+        -0.21651259064674377,
+        -0.3104952871799469
+      ]
+    },
+    {
+      "name": "objects:transform7",
+      "rotation": [
+        0.0,
+        -0.0,
+        -8.673617379884035e-19,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        88
+      ],
+      "name": "objects:group",
+      "translation": [
+        -3.4577317237854004,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        89,
+        91,
+        93
+      ],
+      "name": "objects:pasted__pCube2",
+      "translation": [
+        -0.1380472630262375,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "children": [
+        90
+      ],
+      "name": "objects:polySurface2"
+    },
+    {
+      "name": "objects:transform10"
+    },
+    {
+      "children": [
+        92
+      ],
+      "name": "objects:polySurface3"
+    },
+    {
+      "name": "objects:transform11"
+    },
+    {
+      "name": "objects:transform1"
+    },
+    {
+      "name": "objects:pPlane1"
+    },
+    {
+      "children": [
+        96
+      ],
+      "name": "objects:pPlane2",
+      "scale": [
+        0.11798779666423798,
+        1.0,
+        0.30582666397094727
+      ],
+      "translation": [
+        1.32540762424469,
+        -0.4371775984764099,
+        -0.2862817049026489
+      ]
+    },
+    {
+      "name": "objects:transform17"
+    },
+    {
+      "children": [
+        98
+      ],
+      "name": "objects:pCube3",
+      "scale": [
+        0.6221504807472229,
+        0.07355765253305435,
+        0.1803593784570694
+      ],
+      "translation": [
+        -0.3269588351249695,
+        -0.5024826526641846,
+        -0.3074173033237457
+      ]
+    },
+    {
+      "name": "objects:transform5"
+    },
+    {
+      "name": "objects:group1"
+    },
+    {
+      "children": [
+        101
+      ],
+      "name": "objects:group2"
+    },
+    {
+      "children": [
+        102
+      ],
+      "name": "objects:pasted__group1"
+    },
+    {
+      "children": [
+        103
+      ],
+      "name": "objects:pasted__pasted__pDisc1",
+      "scale": [
+        0.01802482269704342,
+        0.03841710090637207,
+        0.017370639368891716
+      ],
+      "translation": [
+        0.22705835103988647,
+        -0.5158722996711731,
+        -0.3035448491573334
+      ]
+    },
+    {
+      "name": "objects:transform9"
+    },
+    {
+      "children": [
+        105
+      ],
+      "name": "objects:group3"
+    },
+    {
+      "children": [
+        106
+      ],
+      "name": "objects:pasted__group2"
+    },
+    {
+      "children": [
+        107
+      ],
+      "name": "objects:pasted__pasted__group1"
+    },
+    {
+      "children": [
+        108
+      ],
+      "name": "objects:pasted__pasted__pasted__pDisc1",
+      "scale": [
+        0.01802482269704342,
+        0.03841710090637207,
+        0.017370639368891716
+      ],
+      "translation": [
+        -0.5947474241256714,
+        -0.5148752331733704,
+        -0.3035448491573334
+      ]
+    },
+    {
+      "name": "objects:transform4"
+    },
+    {
+      "children": [
+        110
+      ],
+      "name": "objects:pDisc2"
+    },
+    {
+      "name": "objects:transform6"
+    },
+    {
+      "children": [
+        112
+      ],
+      "name": "objects:pasted__pasted__pDisc1"
+    },
+    {
+      "name": "objects:transform13"
+    },
+    {
+      "children": [
+        114
+      ],
+      "name": "objects:polySurface3",
+      "rotation": [
+        0.0,
+        -0.0,
+        -0.008950332179665565,
+        0.9999599456787109
+      ],
+      "scale": [
+        1.0,
+        1.0268362760543823,
+        1.383935809135437
+      ],
+      "translation": [
+        3.554784059524536,
+        0.04582231119275093,
+        0.12023856490850449
+      ]
+    },
+    {
+      "name": "objects:transform16"
+    },
+    {
+      "children": [
+        116
+      ],
+      "name": "objects:pPlane3",
+      "rotation": [
+        0.695704460144043,
+        0.0,
+        0.0,
+        0.7183281779289246
+      ],
+      "scale": [
+        1.3647056818008423,
+        1.0,
+        0.9304841160774231
+      ],
+      "translation": [
+        0.6843975186347961,
+        0.0398404486477375,
+        -0.08334475010633469
+      ]
+    },
+    {
+      "name": "objects:transform12",
+      "rotation": [
+        -3.469446951953614e-18,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        118
+      ],
+      "name": "objects:group4",
+      "translation": [
+        0.0,
+        0.0,
+        -0.43152543902397156
+      ]
+    },
+    {
+      "children": [
+        119
+      ],
+      "name": "objects:pasted__pPlane3",
+      "rotation": [
+        0.695704460144043,
+        0.0,
+        0.0,
+        0.7183281779289246
+      ],
+      "scale": [
+        1.3647056818008423,
+        1.0,
+        0.9304841160774231
+      ],
+      "translation": [
+        0.6843975186347961,
+        0.0398404486477375,
+        -0.08334475010633469
+      ]
+    },
+    {
+      "name": "objects:transform14",
+      "rotation": [
+        -3.469446951953614e-18,
+        -0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "children": [
+        121
+      ],
+      "name": "objects:pasted__pPlane3"
+    },
+    {
+      "name": "objects:transform15"
+    },
+    {
+      "children": [
+        123,
+        124,
+        125
+      ],
+      "name": "directionalLight5",
+      "rotation": [
+        0.0,
+        -0.705422043800354,
+        0.0,
+        0.7087875008583069
+      ],
+      "translation": [
+        73.94742584228516,
+        0.0,
+        -110.1594467163086
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "directionalLight5_myDung:aiToon1_0"
+    },
+    {
+      "mesh": 1,
+      "name": "directionalLight5_aiToon1_0"
+    },
+    {
+      "mesh": 2,
+      "name": "directionalLight5_aiToon2_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
